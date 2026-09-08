@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nxcontrol.powerval",
+      "sha256_cert_fingerprints": [
+        "57:97:FF:CD:07:05:E9:A3:E8:50:FD:38:4A:B2:44:A3:91:AD:4B:40:34:F4:66:87:5F:BA:B3:61:60:EC:D1:69"
+      ]
+    }
+  }
+]
