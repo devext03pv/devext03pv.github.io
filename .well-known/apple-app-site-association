@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "93FW68L2W4.com.nxcontrol.powerval",
-        "paths": [ "/Account/ResetPassword*" ]
+        "paths": ["/Account/ResetPassword*", "/resetpassword*"]
       }
     ]
   }
