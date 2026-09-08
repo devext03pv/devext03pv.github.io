@@ -1,7 +1,8 @@
-include: [".well-known"]
+include:
+  - .well-known
 
 defaults:
   - scope:
       path: ".well-known/apple-app-site-association"
     values:
-      image: false
+      layout: null
