@@ -1,10 +1,27 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
+        "appIDs": [
+          "93FW68L2W4.com.nxcontrol.powerval"
+        ],
+        "components": [
+          {
+            "/": "/Account/ResetPassword*"
+          },
+          {
+            "/": "/resetpassword*"
+          },
+          {
+            "/": "*"
+          }
+        ],
         "appID": "93FW68L2W4.com.nxcontrol.powerval",
-        "paths": ["/Account/ResetPassword*", "/resetpassword*"]
+        "paths": [
+          "/Account/ResetPassword*",
+          "/resetpassword*",
+          "*"
+        ]
       }
     ]
   }
